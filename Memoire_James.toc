@@ -1,0 +1,54 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {french}{}
+\contentsline {chapter}{D\IeC {\'e}dicaces}{iii}{chapter*.3}% 
+\contentsline {chapter}{Remerciements}{v}{chapter*.5}% 
+\contentsline {chapter}{R\IeC {\'e}sum\IeC {\'e}}{xv}{chapter*.13}% 
+\contentsline {chapter}{Abstract}{xvii}{chapter*.14}% 
+\contentsline {chapter}{\numberline {1}Introduction G\IeC {\'e}n\IeC {\'e}rale}{1}{chapter.15}% 
+\contentsline {section}{\numberline {1.1}Contexte et Justification}{1}{section.16}% 
+\contentsline {section}{\numberline {1.2}Probl\IeC {\'e}matique}{2}{section.17}% 
+\contentsline {section}{\numberline {1.3}Questions de recherche}{3}{section.18}% 
+\contentsline {section}{\numberline {1.4}Objectifs de l'\IeC {\'e}tude}{4}{section.19}% 
+\contentsline {subsection}{\numberline {1.4.1}Objectif g\IeC {\'e}n\IeC {\'e}ral}{4}{subsection.20}% 
+\contentsline {subsection}{\numberline {1.4.2}Objectifs sp\IeC {\'e}cifiques}{4}{subsection.21}% 
+\contentsline {section}{\numberline {1.5}Hypoth\IeC {\`e}ses de travail}{4}{section.22}% 
+\contentsline {chapter}{\numberline {2}Revue bibliographique}{5}{chapter.25}% 
+\contentsline {section}{\numberline {2.1}Le bananier}{5}{section.26}% 
+\contentsline {subsection}{\numberline {2.1.1}Origine}{5}{subsection.27}% 
+\contentsline {subsection}{\numberline {2.1.2}Culture}{5}{subsection.28}% 
+\contentsline {subsubsection}{\numberline {2.1.2.1}Le piquetage de la parcelle :}{6}{subsubsection.29}% 
+\contentsline {subsubsection}{\numberline {2.1.2.2}La trouaison :}{6}{subsubsection.30}% 
+\contentsline {section}{\numberline {2.2}Ravageurs}{7}{section.32}% 
+\contentsline {subsection}{\numberline {2.2.1}Lutte contre les charan\IeC {\c c}ons}{8}{subsection.33}% 
+\contentsline {subsubsection}{\numberline {2.2.1.1}Lutte chimique}{8}{subsubsection.34}% 
+\contentsline {subsubsection}{\numberline {2.2.1.2}Pi\IeC {\'e}geage de masse}{8}{subsubsection.35}% 
+\contentsline {subsubsection}{\numberline {2.2.1.3}Syst\IeC {\`e}me de lutte par un pr\IeC {\'e}dateur}{8}{subsubsection.36}% 
+\contentsline {section}{\numberline {2.3}Mod\IeC {\'e}lisation et agro\IeC {\'e}cologie}{10}{section.37}% 
+\contentsline {section}{\numberline {2.4}Mod\IeC {\`e}le spatialement explicit COSMOS}{11}{section.39}% 
+\contentsline {chapter}{\numberline {3}Mat\IeC {\'e}riels et m\IeC {\'e}thode}{13}{chapter.40}% 
+\contentsline {section}{\numberline {3.1}Zone d\IeC {\textquoteright }\IeC {\'e}tude}{13}{section.41}% 
+\contentsline {section}{\numberline {3.2}Collecte des donn\IeC {\'e}es}{14}{section.43}% 
+\contentsline {subsection}{\numberline {3.2.1}Protocole de \IeC {\guillemotleft } proie sentinelle \IeC {\guillemotright } : }{14}{subsection.44}% 
+\contentsline {subsubsection}{\numberline {3.2.1.1}M\IeC {\'e}thodologie}{15}{subsubsection.46}% 
+\contentsline {section}{\numberline {3.3}Analyse statistique des taux de pr\IeC {\'e}dation de charan\IeC {\c c}ons dans un champ de bananier-ma\IeC {\"\i }s}{17}{section.49}% 
+\contentsline {subsection}{\numberline {3.3.1}R\IeC {\'e}sultats et discussion}{19}{subsection.50}% 
+\contentsline {subsection}{\numberline {3.3.2}Conclusion }{22}{subsection.54}% 
+\contentsline {section}{\numberline {3.4}Mod\IeC {\`e}le m\IeC {\'e}caniste COSMOSPARK}{23}{section.55}% 
+\contentsline {subsection}{\numberline {3.4.1}Description et param\IeC {\'e}trage du mod\IeC {\`e}le}{23}{subsection.56}% 
+\contentsline {subsection}{\numberline {3.4.2}Caract\IeC {\'e}ristiques g\IeC {\'e}n\IeC {\'e}rales du mod\IeC {\`e}le COSMOSPARK}{23}{subsection.58}% 
+\contentsline {subsection}{\numberline {3.4.3}Protocole ODD}{25}{subsection.60}% 
+\contentsline {subsubsection}{\numberline {3.4.3.1}Overview}{25}{subsubsection.61}% 
+\contentsline {subsubsection}{\numberline {3.4.3.2}Purpose}{25}{subsubsection.62}% 
+\contentsline {subsubsection}{\numberline {3.4.3.3}Entities, state variables and scales}{26}{subsubsection.63}% 
+\contentsline {subsubsection}{\numberline {3.4.3.4}Process overview and scheduling}{28}{subsubsection.65}% 
+\contentsline {subsubsection}{\numberline {3.4.3.5}Design concepts}{28}{subsubsection.67}% 
+\contentsline {subsubsection}{\numberline {3.4.3.6}Details}{29}{subsubsection.68}% 
+\contentsline {subsubsection}{\numberline {3.4.3.7}Submodels}{30}{subsubsection.69}% 
+\contentsline {subsection}{\numberline {3.4.4}Proc\IeC {\'e}dure de simulation}{31}{subsection.70}% 
+\contentsline {subsubsection}{\numberline {3.4.4.1}Validation du mod\IeC {\`e}le}{31}{subsubsection.71}% 
+\contentsline {subsubsection}{\numberline {3.4.4.2}R\IeC {\'e}sultat}{34}{subsubsection.74}% 
+\contentsline {subsubsection}{\numberline {3.4.4.3}Discussion}{35}{subsubsection.76}% 
+\contentsline {subsubsection}{\numberline {3.4.4.4}Conclusion}{36}{subsubsection.77}% 
+\contentsline {subsection}{\numberline {3.4.5}Conclusion g\IeC {\'e}n\IeC {\'e}rale}{37}{subsection.78}% 
+\contentsfinish 

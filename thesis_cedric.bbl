@@ -1,0 +1,3150 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{abera2008experimental}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AKAM}{%
+         family={Abera-Kalibata},
+         familyi={A\bibinithyphendelim K\bibinitperiod},
+         given={Agnes\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GCS}{%
+         family={Gold},
+         familyi={G\bibinitperiod},
+         given={Clifford\bibnamedelima S},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VDR}{%
+         family={Van\bibnamedelima Driesche},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Roy},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AKAMGCSVDR1}
+    \strng{fullhash}{AKAMGCSVDR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{147\bibrangedash 157}
+    \field{title}{Experimental evaluation of the impacts of two ant species on
+  banana weevil in Uganda}
+    \field{volume}{46}
+    \field{journaltitle}{Biological Control}
+    \field{year}{2008}
+  \endentry
+
+  \entry{abera2007composition}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AKAM}{%
+         family={Abera-Kalibata},
+         familyi={A\bibinithyphendelim K\bibinitperiod},
+         given={Agnes\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GCS}{%
+         family={Gold},
+         familyi={G\bibinitperiod},
+         given={Clifford\bibnamedelima S},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VDRG}{%
+         family={Van\bibnamedelima Driesche},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Roy\bibnamedelima G},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=RPE}{%
+         family={Ragama},
+         familyi={R\bibinitperiod},
+         given={Philip\bibnamedelima E},
+         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AKAM+1}
+    \strng{fullhash}{AKAMGCSVDRGRPE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{168\bibrangedash 178}
+    \field{title}{Composition, distribution, and relative abundance of ants in
+  banana farming systems in Uganda}
+    \field{volume}{40}
+    \field{journaltitle}{Biological Control}
+    \field{year}{2007}
+  \endentry
+
+  \entry{abera1997oviposition}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=AKA}{%
+         family={Abera-Kalibata},
+         familyi={A\bibinithyphendelim K\bibinitperiod},
+         given={AM},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AKA1}
+    \strng{fullhash}{AKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Oviposition preferences and timing of Attack by the Banana
+  Weevil (Cosmopolites sordidus, Germar) in East African Highland Banana (Musa
+  spp.)}
+    \list{institution}{1}{%
+      {Masters thesis, Makerere University}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{1997}
+  \endentry
+
+  \entry{adjovi2006localisation}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=ANRA}{%
+         family={Adjovi},
+         familyi={A\bibinitperiod},
+         given={N.\bibnamedelima R.\bibnamedelima A.},
+         giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ANRA1}
+    \strng{fullhash}{ANRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{43}
+    \field{title}{Monographie de la commune de Toffo}
+    \field{year}{2006}
+  \endentry
+
+  \entry{agricam2018}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Agriculture au Cameroun}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Fiche technique : Culture du bananier plantain de manière
+  intensive}
+    \verb{url}
+    \verb https://www.agricultureaucameroun.net/fiche-technique-culture-du-bana
+    \verb nier-plantain-de-maniere-intensive/
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{arrignon2007modelling}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AF}{%
+         family={Arrignon},
+         familyi={A\bibinitperiod},
+         given={Florent},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Deconchat},
+         familyi={D\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SJP}{%
+         family={Sarthou},
+         familyi={S\bibinitperiod},
+         given={Jean-Pierre},
+         giveni={J\bibinithyphendelim P\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Balent},
+         familyi={B\bibinitperiod},
+         given={G{\'e}rard},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monteil},
+         familyi={M\bibinitperiod},
+         given={Claude},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AF+1}
+    \strng{fullhash}{AFDMSJPBGMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3-4}
+    \field{pages}{423\bibrangedash 436}
+    \field{title}{Modelling the overwintering strategy of a beneficial insect
+  in a heterogeneous landscape using a multi-agent system}
+    \field{volume}{205}
+    \field{journaltitle}{Ecological Modelling}
+    \field{year}{2007}
+  \endentry
+
+  \entry{lme4}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BD}{%
+         family={Bates},
+         familyi={B\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={M{\"a}chler},
+         familyi={M\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BB}{%
+         family={Bolker},
+         familyi={B\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Steve},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD+1}
+    \strng{fullhash}{BDMMBBWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.18637/jss.v067.i01
+    \endverb
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 48}
+    \field{title}{Fitting Linear Mixed-Effects Models Using {lme4}}
+    \field{volume}{67}
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{year}{2015}
+  \endentry
+
+  \entry{bianchi2009foraging}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BFA}{%
+         family={Bianchi},
+         familyi={B\bibinitperiod},
+         given={FJJ\bibnamedelima A},
+         giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Schellhorn},
+         familyi={S\bibinitperiod},
+         given={NA},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=VDWW}{%
+         family={Van Der\bibnamedelima Werf},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+         given={W},
+         giveni={W},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{BFASNVDWW1}
+    \strng{fullhash}{BFASNVDWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{9}
+    \field{pages}{1363\bibrangedash 1372}
+    \field{title}{Foraging behaviour of predators in heterogeneous landscapes:
+  the role of perceptual ability and diet breadth}
+    \field{volume}{118}
+    \field{journaltitle}{Oikos}
+    \field{year}{2009}
+  \endentry
+
+  \entry{bousquet2001multiagent}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BF}{%
+         family={Bousquet},
+         familyi={B\bibinitperiod},
+         given={Fran{\c{c}}ois},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LPC}{%
+         family={Le\bibnamedelima Page},
+         familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BI}{%
+         family={Bakam},
+         familyi={B\bibinitperiod},
+         given={Innocent},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Takforyan},
+         familyi={T\bibinitperiod},
+         given={Ani},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{BF+1}
+    \strng{fullhash}{BFLPCBITA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{1-3}
+    \field{pages}{331\bibrangedash 346}
+    \field{title}{Multiagent simulations of hunting wild meat in a village in
+  eastern Cameroon}
+    \field{volume}{138}
+    \field{journaltitle}{Ecological modelling}
+    \field{year}{2001}
+  \endentry
+
+  \entry{bridge1997nematode}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BJRF}{%
+         family={Bridge\bibnamedelima J.},
+         familyi={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={R.\bibnamedelima Fogain},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Speijer},
+         familyi={S\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJRFSP1}
+    \strng{fullhash}{BJRFSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Les nématodes parasites des bananiers: Pratylenchus coffeae.
+  Parasites et ravageurs des Musa: fiche technique \No 2. INIBAP, Montpellier,
+  France.}
+    \field{year}{1997}
+  \endentry
+
+  \entry{champion1967notes}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Champion},
+         familyi={C\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Notes et documents sur les bananiers et leur culture. Tome 1,
+  Botanique et g{\'e}n{\'e}tique des bananiers}
+    \field{journaltitle}{Institut Fran{\c{c}}aise de Recherches Fruiti{\`e}res
+  Outre-Mer (IFAC). SETCO, Paris}
+    \field{year}{1967}
+  \endentry
+
+  \entry{chapman2007modelling}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CDS}{%
+         family={Chapman},
+         familyi={C\bibinitperiod},
+         given={Daniel\bibnamedelima S},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Dytham},
+         familyi={D\bibinitperiod},
+         given={Calvin},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OGS}{%
+         family={Oxford},
+         familyi={O\bibinitperiod},
+         given={Geoff\bibnamedelima S},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{CDSDCOGS1}
+    \strng{fullhash}{CDSDCOGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{36\bibrangedash 44}
+    \field{title}{Modelling population redistribution in a leaf beetle: an
+  evaluation of alternative dispersal functions}
+    \field{volume}{76}
+    \field{journaltitle}{Journal of Animal Ecology}
+    \field{year}{2007}
+  \endentry
+
+  \entry{collard2018spatial}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CB}{%
+         family={Collard},
+         familyi={C\bibinitperiod},
+         given={Blanche},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Carval},
+         familyi={C\bibinitperiod},
+         given={Dominique},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lavigne},
+         familyi={L\bibinitperiod},
+         given={Claire},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Delattre},
+         familyi={D\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{CB+1}
+    \strng{fullhash}{CBTPCDLCDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{124\bibrangedash 135}
+    \field{title}{Spatial organisation of habitats in agricultural plots
+  affects per-capita predator effect on conservation biological control: An
+  individual based modelling study}
+    \field{volume}{388}
+    \field{journaltitle}{Ecological Modelling}
+    \field{year}{2018}
+  \endentry
+
+  \entry{coombs2007field}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CMF}{%
+         family={Coombs},
+         familyi={C\bibinitperiod},
+         given={Matthew\bibnamedelima F},
+         giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=RMA}{%
+         family={Rodriguez},
+         familyi={R\bibinitperiod},
+         given={Marco\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{CMFRMA1}
+    \strng{fullhash}{CMFRMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{45\bibrangedash 57}
+    \field{title}{A field test of simple dispersal models as predictors of
+  movement in a cohort of lake-dwelling brook charr}
+    \field{volume}{76}
+    \field{journaltitle}{Journal of Animal Ecology}
+    \field{year}{2007}
+  \endentry
+
+  \entry{corbett1993role}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CA}{%
+         family={Corbett},
+         familyi={C\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PRE}{%
+         family={Plant},
+         familyi={P\bibinitperiod},
+         given={Richard\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press Oxford, UK}%
+    }
+    \strng{namehash}{CAPRE1}
+    \strng{fullhash}{CAPRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{519\bibrangedash 531}
+    \field{title}{Role of movement in the response of natural enemies to
+  agroecosystem diversification: a theoretical evaluation}
+    \field{volume}{22}
+    \field{journaltitle}{Environmental Entomology}
+    \field{year}{1993}
+  \endentry
+
+  \entry{cuille1950recherches}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Cuill{\'e}},
+         familyi={C\bibinitperiod},
+         given={Jean},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Soci{\'e}t{\'e} d'{\'e}ditions techniques coloniales}%
+    }
+    \strng{namehash}{CJ2}
+    \strng{fullhash}{CJ2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1950}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Recherches sur le charan{\c{c}}on du bananier," Cosmopolites
+  sordidus"(Germ.): monographie de l'insecte et recherches de ses
+  chimiotropismes. Pr{\'e}face du Prof. P.-P.[Pierre-P.] Grass{\'e}...}
+    \field{year}{1950}
+  \endentry
+
+  \entry{daniells2001musalogue}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Daniells},
+         familyi={D\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bioversity International}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Musalogue: a catalogue of Musa germplasm: diversity in the
+  genus Musa}
+    \field{year}{2001}
+  \endentry
+
+  \entry{dassou2014effet}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=DAG}{%
+         family={Dassou},
+         familyi={D\bibinitperiod},
+         given={Anicet\bibnamedelima Gb{\`e}blonoudo},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DAG1}
+    \strng{fullhash}{DAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Effet de la diversit{\'e} des cultures sur les r{\'e}seaux
+  trophiques des arthropodes et la r{\'e}gulation du charan{\c{c}}on du
+  bananier par les pr{\'e}dateurs g{\'e}n{\'e}ralistes dans les syst{\`e}mes
+  pluri-sp{\'e}cifiques {\`a} base de plantain}
+    \list{institution}{1}{%
+      {Montpellier SupAgro}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2014}
+  \endentry
+
+  \entry{dassou2016response}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DAG}{%
+         family={Dassou},
+         familyi={D\bibinitperiod},
+         given={Anicet\bibnamedelima Gbeblonoudo},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{DAGTP1}
+    \strng{fullhash}{DAGTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{4}
+    \field{pages}{1143\bibrangedash 1153}
+    \field{title}{Response of pest control by generalist predators to
+  local-scale plant diversity: a meta-analysis}
+    \field{volume}{6}
+    \field{journaltitle}{Ecology and evolution}
+    \field{year}{2016}
+  \endentry
+
+  \entry{dassou2015facteurs}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DHG}{%
+         family={Dassou},
+         familyi={D\bibinitperiod},
+         given={Hospice\bibnamedelima G},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Y{\'e}domonhan},
+         familyi={Y\bibinitperiod},
+         given={Hounnankpon},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=AAC}{%
+         family={Adomou},
+         familyi={A\bibinitperiod},
+         given={Aristide\bibnamedelima C},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=OCA}{%
+         family={Ogni},
+         familyi={O\bibinitperiod},
+         given={Cl{\'e}ment\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TMG}{%
+         family={Tossou},
+         familyi={T\bibinitperiod},
+         given={Monique\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Ako{\`e}gninou},
+         familyi={A\bibinitperiod},
+         given={Akpovi},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DHG+1}
+    \strng{fullhash}{DHGYHAACOCATMGAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{5}
+    \field{pages}{335\bibrangedash 360}
+    \field{title}{Facteurs socioculturels et environnementaux d{\'e}terminant
+  la connaissance ethnov{\'e}t{\'e}rinaire au B{\'e}nin}
+    \field{volume}{11}
+    \field{journaltitle}{Afrique Science}
+    \field{year}{2015}
+  \endentry
+
+  \entry{davies2012introduction}{book}{}
+    \name{author}{3}{}{%
+      {{hash=DNB}{%
+         family={Davies},
+         familyi={D\bibinitperiod},
+         given={Nicholas\bibnamedelima B},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=KJR}{%
+         family={Krebs},
+         familyi={K\bibinitperiod},
+         given={John\bibnamedelima R},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WSA}{%
+         family={West},
+         familyi={W\bibinitperiod},
+         given={Stuart\bibnamedelima A},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{DNBKJRWSA1}
+    \strng{fullhash}{DNBKJRWSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{An introduction to behavioural ecology}
+    \field{year}{2012}
+  \endentry
+
+  \entry{deangelis1994individual}{incollection}{}
+    \name{author}{3}{}{%
+      {{hash=DD}{%
+         family={DeAngelis},
+         familyi={D\bibinitperiod},
+         given={DL},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Rose},
+         familyi={R\bibinitperiod},
+         given={KA},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Huston},
+         familyi={H\bibinitperiod},
+         given={MA},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{DDRKHM1}
+    \strng{fullhash}{DDRKHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{Frontiers in mathematical biology}
+    \field{pages}{390\bibrangedash 410}
+    \field{title}{Individual-oriented approaches to modeling ecological
+  populations and communities}
+    \field{year}{1994}
+  \endentry
+
+  \entry{delatre1980insect}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DP}{%
+         family={Delattre},
+         familyi={D\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oecologica Applicata}%
+    }
+    \strng{namehash}{DP1}
+    \strng{fullhash}{DP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{pages}{83–\bibrangedash 92}
+    \field{title}{Recherche d’une méthode d’estimation des populations du
+  charanc¸ on du bananier, Cosmopolites sordidus Germar (Col., Curculionidae)}
+    \field{journaltitle}{Acta Oecologica}
+    \field{year}{1980}
+  \endentry
+
+  \entry{duyck2011addition}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DPF}{%
+         family={Duyck},
+         familyi={D\bibinitperiod},
+         given={Pierre-Fran{\c{c}}ois},
+         giveni={P\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lavigne},
+         familyi={L\bibinitperiod},
+         given={Ana{\"\i}s},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Vinatier},
+         familyi={V\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Achard},
+         familyi={A\bibinitperiod},
+         given={Rapha{\"e}l},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OJN}{%
+         family={Okolle},
+         familyi={O\bibinitperiod},
+         given={Justin\bibnamedelima N},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{DPF+1}
+    \strng{fullhash}{DPFLAVFAROJNTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{47\bibrangedash 55}
+    \field{title}{Addition of a new resource in agroecosystems: Do cover crops
+  alter the trophic positions of generalist predators?}
+    \field{volume}{12}
+    \field{journaltitle}{Basic and Applied Ecology}
+    \field{year}{2011}
+  \endentry
+
+  \entry{fachada2015towards}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FN}{%
+         family={Fachada},
+         familyi={F\bibinitperiod},
+         given={Nuno},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LVV}{%
+         family={Lopes},
+         familyi={L\bibinitperiod},
+         given={Vitor\bibnamedelima V},
+         giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=MRC}{%
+         family={Martins},
+         familyi={M\bibinitperiod},
+         given={Rui\bibnamedelima C},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RAC}{%
+         family={Rosa},
+         familyi={R\bibinitperiod},
+         given={Agostinho\bibnamedelima C},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {PeerJ Inc.}%
+    }
+    \strng{namehash}{FN+1}
+    \strng{fullhash}{FNLVVMRCRAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{pages}{e36}
+    \field{title}{Towards a standard model for research in agent-based modeling
+  and simulation}
+    \field{volume}{1}
+    \field{journaltitle}{PeerJ Computer Science}
+    \field{year}{2015}
+  \endentry
+
+  \entry{fao1996insecte}{book}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={FAO},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {www.fao.org/}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Le programme spécial pour la sécurité alimentaire}
+    \field{year}{1996}
+  \endentry
+
+  \entry{fao2002biodiversity}{book}{}
+    \name{author}{1}{}{%
+      {{hash=F}{%
+         family={FAO},
+         familyi={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {www.fao.org/biodiversity}%
+    }
+    \strng{namehash}{F1}
+    \strng{fullhash}{F1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{La biodiversité pour la préservation des fonctions des
+  agrosystèmes}
+    \field{year}{2002}
+  \endentry
+
+  \entry{fiedler2008special}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FM}{%
+         family={Fiedler},
+         familyi={F\bibinitperiod},
+         given={Miroslav},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Courier Corporation}%
+    }
+    \strng{namehash}{FM1}
+    \strng{fullhash}{FM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Special matrices and their applications in numerical
+  mathematics}
+    \field{year}{2008}
+  \endentry
+
+  \entry{froggatt1926banana}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FJL}{%
+         family={Froggatt},
+         familyi={F\bibinitperiod},
+         given={John\bibnamedelima Lewis},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Department of Agriculture}%
+      {Stock, Queensland. Division of Entomology and~…}%
+    }
+    \strng{namehash}{FJL1}
+    \strng{fullhash}{FJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1926}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The Banana Weevil Borer (Cosmopolites Sordida Chevr.)}
+    \field{year}{1926}
+  \endentry
+
+  \entry{ganry2004diversite}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Ganry},
+         familyi={G\bibinitperiod},
+         given={Jacky},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{7}
+    \field{pages}{621\bibrangedash 627}
+    \field{title}{Diversit{\'e} sp{\'e}cifique des peuplements v{\'e}g{\'e}taux
+  {\`a} l'{\'e}chelle du bassin versant et contr{\^o}le des parasites des
+  cultures: l'exemple de la culture banani{\`e}re aux Antilles
+  fran{\c{c}}aises}
+    \field{volume}{327}
+    \field{journaltitle}{Comptes Rendus Biologies}
+    \field{year}{2004}
+  \endentry
+
+  \entry{lay2017dognon}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GLD}{%
+         family={Gaston},
+         familyi={G\bibinitperiod},
+         given={Lay\bibnamedelima Dognon},
+         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GLD1}
+    \strng{fullhash}{GLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Rôle des pratiques culturales et de la composition du
+  paysage dans l’amélioration de la régulation naturelle du charançon du
+  bananier Cosmopolites sordidus par les prédateurs généralistes dans la
+  commune de Toffo au Sud du Bénin.}
+    \field{year}{2017}
+  \endentry
+
+  \entry{gold2001biology}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GCS}{%
+         family={Gold},
+         familyi={G\bibinitperiod},
+         given={Clifford\bibnamedelima S},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PJE}{%
+         family={Pena},
+         familyi={P\bibinitperiod},
+         given={Jorge\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=KEB}{%
+         family={Karamura},
+         familyi={K\bibinitperiod},
+         given={Eldad\bibnamedelima B},
+         giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{GCSPJEKEB1}
+    \strng{fullhash}{GCSPJEKEB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{2}
+    \field{pages}{79\bibrangedash 155}
+    \field{title}{Biology and integrated pest management for the banana weevil
+  Cosmopolites sordidus (Germar)(Coleoptera: Curculionidae)}
+    \field{volume}{6}
+    \field{journaltitle}{Integrated Pest Management Reviews}
+    \field{year}{2001}
+  \endentry
+
+  \entry{gold2000biology}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GC}{%
+         family={Gold},
+         familyi={G\bibinitperiod},
+         given={C.S.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={S},
+         familyi={S},
+         given={Messiaen},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GCSM1}
+    \strng{fullhash}{GCSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Charançon du bananier cosmospolites sordidus: Parasites et
+  ravageurs de Musa. Fiche technique \No 4.}
+    \field{year}{2000}
+  \endentry
+
+  \entry{gowen1990nematode}{article}{}
+    \true{moreauthor}
+    \name{author}{2}{}{%
+      {{hash=GS}{%
+         family={Gowen},
+         familyi={G\bibinitperiod},
+         given={Simon},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=QP}{%
+         family={Qu{\'e}n{\'e}herv{\'e}},
+         familyi={Q\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CAB International}%
+    }
+    \strng{namehash}{GSQP+1}
+    \strng{fullhash}{GSQP+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{pages}{431\bibrangedash 460}
+    \field{title}{Nematode parasites of bananas, plantains and Abaca.}
+    \field{journaltitle}{Plant parasitic nematodes in subtropical and tropical
+  agriculture.}
+    \field{year}{1990}
+  \endentry
+
+  \entry{grimm2013individual}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GV}{%
+         family={Grimm},
+         familyi={G\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RSF}{%
+         family={Railsback},
+         familyi={R\bibinitperiod},
+         given={Steven\bibnamedelima F},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton university press}%
+    }
+    \strng{namehash}{GVRSF1}
+    \strng{fullhash}{GVRSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Individual-based modeling and ecology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{grimm2010odd}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GV}{%
+         family={Grimm},
+         familyi={G\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={Berger},
+         familyi={B\bibinitperiod},
+         given={Uta},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=DDL}{%
+         family={DeAngelis},
+         familyi={D\bibinitperiod},
+         given={Donald\bibnamedelima L},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=PJG}{%
+         family={Polhill},
+         familyi={P\bibinitperiod},
+         given={J\bibnamedelima Gary},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Giske},
+         familyi={G\bibinitperiod},
+         given={Jarl},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RSF}{%
+         family={Railsback},
+         familyi={R\bibinitperiod},
+         given={Steven\bibnamedelima F},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GV+1}
+    \strng{fullhash}{GVBUDDLPJGGJRSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{23}
+    \field{pages}{2760\bibrangedash 2768}
+    \field{title}{The ODD protocol: a review and first update}
+    \field{volume}{221}
+    \field{journaltitle}{Ecological modelling}
+    \field{year}{2010}
+  \endentry
+
+  \entry{gurr2003multi}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GGM}{%
+         family={Gurr},
+         familyi={G\bibinitperiod},
+         given={Geoff\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WSD}{%
+         family={Wratten},
+         familyi={W\bibinitperiod},
+         given={Stephen\bibnamedelima D},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Luna},
+         familyi={L\bibinitperiod},
+         given={John\bibnamedelima Michael},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GGMWSDLJM1}
+    \strng{fullhash}{GGMWSDLJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{2}
+    \field{pages}{107\bibrangedash 116}
+    \field{title}{Multi-function agricultural biodiversity: pest management and
+  other benefits}
+    \field{volume}{4}
+    \field{journaltitle}{Basic and Applied Ecology}
+    \field{year}{2003}
+  \endentry
+
+  \entry{hilker2006parameterizing}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HFM}{%
+         family={Hilker},
+         familyi={H\bibinitperiod},
+         given={Frank\bibnamedelima M},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hinsch},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PHJ}{%
+         family={Poethke},
+         familyi={P\bibinitperiod},
+         given={Hans\bibnamedelima Joachim},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{HFMHMPHJ1}
+    \strng{fullhash}{HFMHMPHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{4}
+    \field{pages}{476\bibrangedash 485}
+    \field{title}{Parameterizing, evaluating and comparing metapopulation
+  models with data from individual-based simulations}
+    \field{volume}{199}
+    \field{journaltitle}{ecological modelling}
+    \field{year}{2006}
+  \endentry
+
+  \entry{holt1977predation}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HRD}{%
+         family={Holt},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima D},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{HRD1}
+    \strng{fullhash}{HRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{197\bibrangedash 229}
+    \field{title}{Predation, apparent competition, and the structure of prey
+  communities}
+    \field{volume}{12}
+    \field{journaltitle}{Theoretical population biology}
+    \field{year}{1977}
+  \endentry
+
+  \entry{hufker1999az}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HCB}{%
+         family={Huffaker},
+         familyi={H\bibinitperiod},
+         given={C.\bibnamedelima B.},
+         giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=GAP}{%
+         family={Gutierrez},
+         familyi={G\bibinitperiod},
+         given={A.\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {New York, Wiley}%
+    }
+    \strng{namehash}{HCBGAP1}
+    \strng{fullhash}{HCBGAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Ecological Entomology.}
+    \field{year}{1999}
+  \endentry
+
+  \entry{jean2011changements}{book}{}
+    \name{author}{2}{}{%
+      {{hash=JM}{%
+         family={Jean},
+         familyi={J\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={L{\'e}tourneau},
+         familyi={L\bibinitperiod},
+         given={Guy},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Environnement Canada, Direction g{\'e}n{\'e}rale des sciences et de la
+  technologie~…}%
+    }
+    \strng{namehash}{JMLG1}
+    \strng{fullhash}{JMLG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Changements dans les milieux humides du fleuve Saint-Laurent
+  de 1970 {\`a} 2002}
+    \field{year}{2011}
+  \endentry
+
+  \entry{koppenhofer1993observations}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KA}{%
+         family={Koppenh{\"o}fer},
+         familyi={K\bibinitperiod},
+         given={AM},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{KA1}
+    \strng{fullhash}{KA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{2}
+    \field{pages}{187\bibrangedash 192}
+    \field{title}{Observations on egg-laying behaviour of the banana weevil,
+  Cosmopolites sordidus (Germar)}
+    \field{volume}{68}
+    \field{journaltitle}{Entomologia Experimentalis et Applicata}
+    \field{year}{1993}
+  \endentry
+
+  \entry{lassoudiere2007bananier}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LA}{%
+         family={Lassoudi{\`e}re},
+         familyi={L\bibinitperiod},
+         given={Andr{\'e}},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Editions Quae}%
+    }
+    \strng{namehash}{LA1}
+    \strng{fullhash}{LA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Le bananier et sa culture}
+    \field{year}{2007}
+  \endentry
+
+  \entry{lassoudiere2010histoire}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LA}{%
+         family={Lassoudi{\`e}re},
+         familyi={L\bibinitperiod},
+         given={Andr{\'e}},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Editions Quae}%
+    }
+    \strng{namehash}{LA1}
+    \strng{fullhash}{LA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{L'histoire du bananier}
+    \field{year}{2010}
+  \endentry
+
+  \entry{sjplot}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=LD}{%
+         family={Lüdecke},
+         familyi={L\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LD1}
+    \strng{fullhash}{LD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{R package version 2.8.9}
+    \field{title}{sjPlot: Data Visualization for Statistics in Social Science}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=sjPlot
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{emmeans}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=LRV}{%
+         family={Lenth},
+         familyi={L\bibinitperiod},
+         given={Russell\bibnamedelima V.},
+         giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LRV1}
+    \strng{fullhash}{LRV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{note}{R package version 1.6.3}
+    \field{title}{emmeans: Estimated Marginal Means, aka Least-Squares Means}
+    \verb{url}
+    \verb https://CRAN.R-project.org/package=emmeans
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{mcsorley1986nematological}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MR}{%
+         family={McSorley},
+         familyi={M\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+      {{hash=PJ}{%
+         family={Parrado},
+         familyi={P\bibinitperiod},
+         given={JL},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRPJ1}
+    \strng{fullhash}{MRPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{73\bibrangedash 91}
+    \field{title}{Nematological reviews: Helicotylenchus multicinctus on
+  bananas: an international problem}
+    \field{journaltitle}{Nematropica}
+    \field{year}{1986}
+  \endentry
+
+  \entry{mille2006insect}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MC}{%
+         family={Mille},
+         familyi={M\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+      {{hash=C}{%
+         family={Cazères},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MCC1}
+    \strng{fullhash}{MCC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{La lutte contre le Charançon du Bananier, Cosmopolites
+  sordidus (Germar). Protection phytosanitaire des cultures fruitières en
+  Nouvelle-Calédonie. Fiche 3.7}
+    \field{year}{2006}
+  \endentry
+
+  \entry{mindzie2001first}{article}{}
+    \name{author}{8}{}{%
+      {{hash=MCM}{%
+         family={Mindzie},
+         familyi={M\bibinitperiod},
+         given={Christophe\bibnamedelima Mbida},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DH}{%
+         family={Doutrelepont},
+         familyi={D\bibinitperiod},
+         given={Hughes},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=VL}{%
+         family={Vrydaghs},
+         familyi={V\bibinitperiod},
+         given={Luc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SRL}{%
+         family={Swennen},
+         familyi={S\bibinitperiod},
+         given={Rony\bibnamedelima L},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SRJ}{%
+         family={Swennen},
+         familyi={S\bibinitperiod},
+         given={Rudy\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Beeckman},
+         familyi={B\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=DLE}{%
+         family={De\bibnamedelima Langhe},
+         familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Edmond},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DMP}{%
+         family={De\bibnamedelima Maret},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{MCM+1}
+    \strng{fullhash}{MCMDHVLSRLSRJBHDLEDMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{First archaeological evidence of banana cultivation in
+  central Africa during the third millennium before present}
+    \field{volume}{10}
+    \field{journaltitle}{Vegetation History and Archaeobotany}
+    \field{year}{2001}
+  \endentry
+
+  \entry{mitchell2002effects}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MCE}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={Charles\bibnamedelima E},
+         giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Tilman},
+         familyi={T\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GJV}{%
+         family={Groth},
+         familyi={G\bibinitperiod},
+         given={James\bibnamedelima V},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{MCETDGJV1}
+    \strng{fullhash}{MCETDGJV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{6}
+    \field{pages}{1713\bibrangedash 1726}
+    \field{title}{Effects of grassland plant species diversity, abundance, and
+  composition on foliar fungal disease}
+    \field{volume}{83}
+    \field{journaltitle}{Ecology}
+    \field{year}{2002}
+  \endentry
+
+  \entry{mollot2012new}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MG}{%
+         family={Mollot},
+         familyi={M\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lescourret},
+         familyi={L\bibinitperiod},
+         given={Fran{\c{c}}oise},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=QS}{%
+         family={Quilici},
+         familyi={Q\bibinitperiod},
+         given={Serge},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DPF}{%
+         family={Duyck},
+         familyi={D\bibinitperiod},
+         given={Pierre-Fran{\c{c}}ois},
+         giveni={P\bibinithyphendelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Blackwell Publishing Ltd Oxford, UK}%
+    }
+    \strng{namehash}{MG+1}
+    \strng{fullhash}{MGTPLFQSDPF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{317\bibrangedash 323}
+    \field{title}{New primary resource increases predation on a pest in a
+  banana agroecosystem}
+    \field{volume}{14}
+    \field{journaltitle}{Agricultural and forest entomology}
+    \field{year}{2012}
+  \endentry
+
+  \entry{morris1991factorial}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MMD}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={Max\bibnamedelima D},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{MMD1}
+    \strng{fullhash}{MMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1991}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{2}
+    \field{pages}{161\bibrangedash 174}
+    \field{title}{Factorial sampling plans for preliminary computational
+  experiments}
+    \field{volume}{33}
+    \field{journaltitle}{Technometrics}
+    \field{year}{1991}
+  \endentry
+
+  \entry{okubo1980diffusion}{article}{}
+    \true{moreauthor}
+    \name{author}{1}{}{%
+      {{hash=OA}{%
+         family={Okubo},
+         familyi={O\bibinitperiod},
+         given={Akira},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OA+1}
+    \strng{fullhash}{OA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{year}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Diffusion and ecological problems: mathematical models}
+    \field{year}{1980}
+  \endentry
+
+  \entry{parry2006aphid}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PHR}{%
+         family={Parry},
+         familyi={P\bibinitperiod},
+         given={Hazel\bibnamedelima R},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=EAJ}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Andrew\bibnamedelima J},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Morgan},
+         familyi={M\bibinitperiod},
+         given={Derek},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{PHREAJMD1}
+    \strng{fullhash}{PHREAJMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{4}
+    \field{pages}{451\bibrangedash 463}
+    \field{title}{Aphid population response to agricultural landscape change: a
+  spatially explicit, individual-based model}
+    \field{volume}{199}
+    \field{journaltitle}{Ecological Modelling}
+    \field{year}{2006}
+  \endentry
+
+  \entry{perfecto1998deployment}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=PI}{%
+         family={Perfecto},
+         familyi={P\bibinitperiod},
+         given={Ivette},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Casti{\~n}eiras},
+         familyi={C\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{PICA1}
+    \strng{fullhash}{PICA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1998}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{booktitle}{Conservation biological control}
+    \field{pages}{269\bibrangedash 289}
+    \field{title}{Deployment of the predaceous ants and their conservation in
+  agroecosystems}
+    \field{year}{1998}
+  \endentry
+
+  \entry{phillips2008reid}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PBL}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Benjamin\bibnamedelima L},
+         giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BGP}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Gregory\bibnamedelima P},
+         giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=TJM}{%
+         family={Travis},
+         familyi={T\bibinitperiod},
+         given={Justin\bibnamedelima MJ},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Shine},
+         familyi={S\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{PBL+1}
+    \strng{fullhash}{PBLBGPTJMSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{S1}
+    \field{pages}{S34\bibrangedash S48}
+    \field{title}{Reid’s paradox revisited: the evolution of dispersal
+  kernels during range expansion}
+    \field{volume}{172}
+    \field{journaltitle}{the american naturalist}
+    \field{year}{2008}
+  \endentry
+
+  \entry{pynoo2011predicting}{article}{}
+    \name{author}{6}{}{%
+      {{hash=PB}{%
+         family={Pynoo},
+         familyi={P\bibinitperiod},
+         given={Bram},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Devolder},
+         familyi={D\bibinitperiod},
+         given={Pieter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Tondeur},
+         familyi={T\bibinitperiod},
+         given={Jo},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VBJ}{%
+         family={Van\bibnamedelima Braak},
+         familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={Johan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DW}{%
+         family={Duyck},
+         familyi={D\bibinitperiod},
+         given={Wouter},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Duyck},
+         familyi={D\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{PB+1}
+    \strng{fullhash}{PBDPTJVBJDWDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{568\bibrangedash 575}
+    \field{title}{Predicting secondary school teachers’ acceptance and use of
+  a digital learning environment: A cross-sectional study}
+    \field{volume}{27}
+    \field{journaltitle}{Computers in Human behavior}
+    \field{year}{2011}
+  \endentry
+
+  \entry{rcitation}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{R Core Team}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {R Foundation for Statistical Computing}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{R: A Language and Environment for Statistical Computing}
+    \verb{url}
+    \verb https://www.R-project.org/
+    \endverb
+    \list{location}{1}{%
+      {Vienna, Austria}%
+    }
+    \field{year}{2021}
+  \endentry
+
+  \entry{rabasa2005egg}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RSG}{%
+         family={Rabasa},
+         familyi={R\bibinitperiod},
+         given={Sonia\bibnamedelima G},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=GD}{%
+         family={Guti{\'e}rrez},
+         familyi={G\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Escudero},
+         familyi={E\bibinitperiod},
+         given={Adri{\'a}n},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{RSGGDEA1}
+    \strng{fullhash}{RSGGDEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{5}
+    \field{pages}{629\bibrangedash 639}
+    \field{title}{Egg laying by a butterfly on a fragmented host plant: a
+  multi-level approach}
+    \field{volume}{28}
+    \field{journaltitle}{Ecography}
+    \field{year}{2005}
+  \endentry
+
+  \entry{raemaekers2001agriculture}{article}{}
+    \true{moreauthor}
+    \name{author}{1}{}{%
+      {{hash=RRH}{%
+         family={Raemaekers},
+         familyi={R\bibinitperiod},
+         given={Romain\bibnamedelima H},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brussels (Belgium) DGIC}%
+    }
+    \strng{namehash}{RRH+1}
+    \strng{fullhash}{RRH+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Agriculture en Afrique tropicale}
+    \field{year}{2001}
+  \endentry
+
+  \entry{rhino2010effect}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RB}{%
+         family={Rhino},
+         familyi={R\bibinitperiod},
+         given={B{\'e}atrice},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dorel},
+         familyi={D\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RJM}{%
+         family={Ris{\`e}de},
+         familyi={R\bibinitperiod},
+         given={Jean-Michel},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{RB+1}
+    \strng{fullhash}{RBDMTPRJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{2}
+    \field{pages}{195\bibrangedash 202}
+    \field{title}{Effect of fallows on population dynamics of Cosmopolites
+  sordidus: toward integrated management of banana fields with pheromone mass
+  trapping}
+    \field{volume}{12}
+    \field{journaltitle}{Agricultural and Forest Entomology}
+    \field{year}{2010}
+  \endentry
+
+  \entry{ricci2017cartes}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{10}{}{%
+      {{hash=RB}{%
+         family={Ricci},
+         familyi={R\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Petit},
+         familyi={P\bibinitperiod},
+         given={Sandrine},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BDL}{%
+         family={Biju-Duval},
+         familyi={B\bibinithyphendelim D\bibinitperiod},
+         given={Luc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alignier},
+         familyi={A\bibinitperiod},
+         given={Audrey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aviron},
+         familyi={A\bibinitperiod},
+         given={St{\'e}phanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bouvier},
+         familyi={B\bibinitperiod},
+         given={Jean-Charles},
+         giveni={J\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Bretagnolles},
+         familyi={B\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Plantegenest},
+         familyi={P\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Vialatte},
+         familyi={V\bibinitperiod},
+         given={Aude},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lavigne},
+         familyi={L\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+    }
+    \strng{namehash}{RB+2}
+    \strng{fullhash}{RBPSBDLAAASBJCBVPMVALC+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{S{\'e}minaire" Ecologisation des syst{\`e}mes de
+  productions agricoles pour renforcer le contr{\^o}le biologique des
+  bioagresseurs"}
+    \field{title}{Les cartes de pr{\'e}dation: retour d’exp{\'e}rience dans
+  le projet SEBIOPAG}
+    \field{year}{2017}
+  \endentry
+
+  \entry{sarh1996nematode}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SJJP}{%
+         family={Sarah\bibnamedelima J.L.},
+         familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={J.\bibnamedelima Pinochet},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Stanton},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJJPSJ1}
+    \strng{fullhash}{SJJPSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Nématode parasite des bananiers Radopholus similis Cobb.
+  Parasites et ravageurs Musa: fiche technique \No 1. INIBAP, Montpellier,
+  Francia}
+    \field{year}{1996}
+  \endentry
+
+  \entry{schelling1969models}{article}{}
+    \name{author}{1}{}{%
+      {{hash=STC}{%
+         family={Schelling},
+         familyi={S\bibinitperiod},
+         given={Thomas\bibnamedelima C},
+         giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{STC1}
+    \strng{fullhash}{STC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1969}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{2}
+    \field{pages}{488\bibrangedash 493}
+    \field{title}{Models of segregation}
+    \field{volume}{59}
+    \field{journaltitle}{The American Economic Review}
+    \field{year}{1969}
+  \endentry
+
+  \entry{schick2008understanding}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SRS}{%
+         family={Schick},
+         familyi={S\bibinitperiod},
+         given={Robert\bibnamedelima S},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LSR}{%
+         family={Loarie},
+         familyi={L\bibinitperiod},
+         given={Scott\bibnamedelima R},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Colchero},
+         familyi={C\bibinitperiod},
+         given={Fernando},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BBD}{%
+         family={Best},
+         familyi={B\bibinitperiod},
+         given={Benjamin\bibnamedelima D},
+         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Boustany},
+         familyi={B\bibinitperiod},
+         given={Andre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CDA}{%
+         family={Conde},
+         familyi={C\bibinitperiod},
+         given={Dalia\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HPN}{%
+         family={Halpin},
+         familyi={H\bibinitperiod},
+         given={Patrick\bibnamedelima N},
+         giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=JLN}{%
+         family={Joppa},
+         familyi={J\bibinitperiod},
+         given={Lucas\bibnamedelima N},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MCM}{%
+         family={McClellan},
+         familyi={M\bibinitperiod},
+         given={Catherine\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CJS}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={James\bibnamedelima S},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{SRS+1}
+    \strng{fullhash}{SRSLSRCFBBDBACDAHPNJLNMCMCJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{12}
+    \field{pages}{1338\bibrangedash 1350}
+    \field{title}{Understanding movement data and movement processes: current
+  and emerging directions}
+    \field{volume}{11}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2008}
+  \endentry
+
+  \entry{searle2005should}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SKR}{%
+         family={Searle},
+         familyi={S\bibinitperiod},
+         given={Kate\bibnamedelima R},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=THN}{%
+         family={Thompson\bibnamedelima Hobbs},
+         familyi={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+      {{hash=SLA}{%
+         family={Shipley},
+         familyi={S\bibinitperiod},
+         given={Lisa\bibnamedelima A},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{SKRTHNSLA1}
+    \strng{fullhash}{SKRTHNSLA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{417\bibrangedash 424}
+    \field{title}{Should I stay or should I go? Patch departure decisions by
+  herbivores at multiple scales}
+    \field{volume}{111}
+    \field{journaltitle}{Oikos}
+    \field{year}{2005}
+  \endentry
+
+  \entry{tang2010agent}{article}{}
+    \name{author}{2}{}{%
+      {{hash=TW}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Wenwu},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BDA}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{TWBDA1}
+    \strng{fullhash}{TWBDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{7}
+    \field{pages}{682\bibrangedash 700}
+    \field{title}{Agent-based modeling of animal movement: a review}
+    \field{volume}{4}
+    \field{journaltitle}{Geography Compass}
+    \field{year}{2010}
+  \endentry
+
+  \entry{thiele2014r}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJC}{%
+         family={Thiele},
+         familyi={T\bibinitperiod},
+         given={Jan\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJC1}
+    \strng{fullhash}{TJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 41}
+    \field{title}{R marries NetLogo: introduction to the RNetLogo package}
+    \field{volume}{58}
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{year}{2014}
+  \endentry
+
+  \entry{thiele2012rnetlogo}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TJC}{%
+         family={Thiele},
+         familyi={T\bibinitperiod},
+         given={Jan\bibnamedelima C},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=KW}{%
+         family={Kurth},
+         familyi={K\bibinitperiod},
+         given={Winfried},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Grimm},
+         familyi={G\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{TJCKWGV1}
+    \strng{fullhash}{TJCKWGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{3}
+    \field{pages}{480\bibrangedash 483}
+    \field{title}{RNetLogo: An R package for running and exploring
+  individual-based models implemented in NetLogo}
+    \field{volume}{3}
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2012}
+  \endentry
+
+  \entry{tisue2004netlogo}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=TS}{%
+         family={Tisue},
+         familyi={T\bibinitperiod},
+         given={Seth},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WU}{%
+         family={Wilensky},
+         familyi={W\bibinitperiod},
+         given={Uri},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Boston, MA}%
+    }
+    \strng{namehash}{TSWU1}
+    \strng{fullhash}{TSWU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{booktitle}{International conference on complex systems}
+    \field{pages}{16\bibrangedash 21}
+    \field{title}{Netlogo: A simple environment for modeling complexity}
+    \field{volume}{21}
+    \field{year}{2004}
+  \endentry
+
+  \entry{tixier2004simba}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Mal{\'e}zieux},
+         familyi={M\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dorel},
+         familyi={D\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{TPMEDM1}
+    \strng{fullhash}{TPMEDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{2-3}
+    \field{pages}{407\bibrangedash 417}
+    \field{title}{SIMBA-POP: a cohort population model for long-term simulation
+  of banana crop harvest}
+    \field{volume}{180}
+    \field{journaltitle}{Ecological Modelling}
+    \field{year}{2004}
+  \endentry
+
+  \entry{tixier2008simba}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Mal{\'e}zieux},
+         familyi={M\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dorel},
+         familyi={D\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wery},
+         familyi={W\bibinitperiod},
+         given={Jacques},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{TP+1}
+    \strng{fullhash}{TPMEDMWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{3}
+    \field{pages}{139\bibrangedash 150}
+    \field{title}{SIMBA, a model for designing sustainable banana-based
+  cropping systems}
+    \field{volume}{97}
+    \field{journaltitle}{Agricultural Systems}
+    \field{year}{2008}
+  \endentry
+
+  \entry{treverrow1985banana}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TN}{%
+         family={Treverrow},
+         familyi={T\bibinitperiod},
+         given={N},
+         giveni={N},
+      }}%
+    }
+    \strng{namehash}{TN1}
+    \strng{fullhash}{TN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Banana weevil borer. Agfact H6. AE. 1}
+    \field{journaltitle}{New South Wales, Australia, Department of Agriculture}
+    \field{year}{1985}
+  \endentry
+
+  \entry{vilardebo1974chlordecone}{article}{}
+    \true{moreauthor}
+    \name{author}{5}{}{%
+      {{hash=VA}{%
+         family={Vilardebo},
+         familyi={V\bibinitperiod},
+         given={Anselme},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Beugnon},
+         familyi={B\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=MP}{%
+         family={Melin},
+         familyi={M\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lecoq},
+         familyi={L\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=AB}{%
+         family={Aubert},
+         familyi={A\bibinitperiod},
+         given={Bernard},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VA+1}
+    \strng{fullhash}{VABMMPLJAB+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{4}
+    \field{pages}{267\bibrangedash 278}
+    \field{title}{Chlord{\'e}cone et autres insecticides dans la lutte contre
+  le charan{\c{c}}on du bananier Cosmopolites sordidus GERM}
+    \field{volume}{29}
+    \field{journaltitle}{Fruits}
+    \field{year}{1974}
+  \endentry
+
+  \entry{vinatier2010dynamique}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=VF}{%
+         family={Vinatier},
+         familyi={V\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VF1}
+    \strng{fullhash}{VF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Dynamique spatiale du charan{\c{c}}on du bananier en
+  interaction avec le syst{\`e}me de culture et l'organisation paysag{\`e}re}
+    \list{institution}{1}{%
+      {AgroParisTech}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2010}
+  \endentry
+
+  \entry{vinatier2013explaining}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VF}{%
+         family={Vinatier},
+         familyi={V\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gosme},
+         familyi={G\bibinitperiod},
+         given={Marie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VMM}{%
+         family={Valantin-Morison},
+         familyi={V\bibinithyphendelim M\bibinitperiod},
+         given={Muriel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{VFGMVMM1}
+    \strng{fullhash}{VFGMVMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{2}
+    \field{pages}{217\bibrangedash 231}
+    \field{title}{Explaining host--parasitoid interactions at the landscape
+  scale: a new approach for calibration and sensitivity analysis of complex
+  spatio-temporal models}
+    \field{volume}{28}
+    \field{journaltitle}{Landscape ecology}
+    \field{year}{2013}
+  \endentry
+
+  \entry{vinatier2009cosmos}{article}{}
+    \name{author}{5}{}{%
+      {{hash=VF}{%
+         family={Vinatier},
+         familyi={V\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LPC}{%
+         family={Le\bibnamedelima Page},
+         familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=DPF}{%
+         family={Duyck},
+         familyi={D\bibinitperiod},
+         given={Pierre-Fran{\c{c}}ois},
+         giveni={P\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lescourret},
+         familyi={L\bibinitperiod},
+         given={Fran{\c{c}}oise},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{VF+1}
+    \strng{fullhash}{VFTPLPCDPFLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{18}
+    \field{pages}{2244\bibrangedash 2254}
+    \field{title}{COSMOS, a spatially explicit model to simulate the
+  epidemiology of Cosmopolites sordidus in banana fields}
+    \field{volume}{220}
+    \field{journaltitle}{Ecological Modelling}
+    \field{year}{2009}
+  \endentry
+
+  \entry{vinatier2010radiotelemetry}{article}{}
+    \name{author}{6}{}{%
+      {{hash=VF}{%
+         family={Vinatier},
+         familyi={V\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Chailleux},
+         familyi={C\bibinitperiod},
+         given={Ana{\"\i}s},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DPF}{%
+         family={Duyck},
+         familyi={D\bibinitperiod},
+         given={Pierre-Fran{\c{c}}ois},
+         giveni={P\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Salmon},
+         familyi={S\bibinitperiod},
+         given={Fr{\'e}d{\'e}ric},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lescourret},
+         familyi={L\bibinitperiod},
+         given={Fran{\c{c}}oise},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{VF+1}
+    \strng{fullhash}{VFCADPFSFLFTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{2}
+    \field{pages}{221\bibrangedash 229}
+    \field{title}{Radiotelemetry unravels movements of a walking insect species
+  in heterogeneous environments}
+    \field{volume}{80}
+    \field{journaltitle}{Animal behaviour}
+    \field{year}{2010}
+  \endentry
+
+  \entry{walters2006modelling}{article}{}
+    \name{author}{5}{}{%
+      {{hash=WRJ}{%
+         family={Walters},
+         familyi={W\bibinitperiod},
+         given={Richard\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hassall},
+         familyi={H\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TMG}{%
+         family={Telfer},
+         familyi={T\bibinitperiod},
+         given={Mark\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HGM}{%
+         family={Hewitt},
+         familyi={H\bibinitperiod},
+         given={Godfrey\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PJP}{%
+         family={Palutikof},
+         familyi={P\bibinitperiod},
+         given={Jean\bibnamedelima P},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society London}%
+    }
+    \strng{namehash}{WRJ+1}
+    \strng{fullhash}{WRJHMTMGHGMPJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{1597}
+    \field{pages}{2017\bibrangedash 2023}
+    \field{title}{Modelling dispersal of a temperate insect in a changing
+  climate}
+    \field{volume}{273}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2006}
+  \endentry
+
+  \entry{watson2015exploring}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WJR}{%
+         family={Watson},
+         familyi={W\bibinitperiod},
+         given={James\bibnamedelima R},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SCA}{%
+         family={Stock},
+         familyi={S\bibinitperiod},
+         given={Charles\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SJL}{%
+         family={Sarmiento},
+         familyi={S\bibinitperiod},
+         given={Jorge\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{WJRSCASJL1}
+    \strng{fullhash}{WJRSCASJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{pages}{521\bibrangedash 532}
+    \field{title}{Exploring the role of movement in determining the global
+  distribution of marine biomass using a coupled hydrodynamic--size-based
+  ecosystem model}
+    \field{volume}{138}
+    \field{journaltitle}{Progress in Oceanography}
+    \field{year}{2015}
+  \endentry
+
+  \entry{wilby2002natural}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WA}{%
+         family={Wilby},
+         familyi={W\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TMB}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={Matthew\bibnamedelima B},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{WATMB1}
+    \strng{fullhash}{WATMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{3}
+    \field{pages}{353\bibrangedash 360}
+    \field{title}{Natural enemy diversity and pest control: patterns of pest
+  emergence with agricultural intensification}
+    \field{volume}{5}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2002}
+  \endentry
+
+  \entry{winkler2007spread}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WE}{%
+         family={Winkler},
+         familyi={W\bibinitperiod},
+         given={Eckart},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Heinken},
+         familyi={H\bibinitperiod},
+         given={Thilo},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{WEHT1}
+    \strng{fullhash}{WEHT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{3-4}
+    \field{pages}{424\bibrangedash 438}
+    \field{title}{Spread of an ant-dispersed annual herb: An individual-based
+  simulation study on population development of Melampyrum pratense L.}
+    \field{volume}{203}
+    \field{journaltitle}{Ecological modelling}
+    \field{year}{2007}
+  \endentry
+
+  \entry{zuur2009mixed}{book}{}
+    \true{moreauthor}
+    \name{author}{5}{}{%
+      {{hash=ZAF}{%
+         family={Zuur},
+         familyi={Z\bibinitperiod},
+         given={Alain\bibnamedelima F},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=IEN}{%
+         family={Ieno},
+         familyi={I\bibinitperiod},
+         given={Elena\bibnamedelima N},
+         giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=WNJ}{%
+         family={Walker},
+         familyi={W\bibinitperiod},
+         given={Neil\bibnamedelima J},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SAA}{%
+         family={Saveliev},
+         familyi={S\bibinitperiod},
+         given={Anatoly\bibnamedelima A},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SGM}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Graham\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ZAF+1}
+    \strng{fullhash}{ZAFIENWNJSAASGM+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Mixed effects models and extensions in ecology with R}
+    \field{volume}{574}
+    \field{year}{2009}
+  \endentry
+\enddatalist
+\endinput
