@@ -367,6 +367,53 @@
     \field{year}{1967}
   \endentry
 
+  \entry{chaplin2011meta}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CKR}{%
+         family={Chaplin-Kramer},
+         familyi={C\bibinithyphendelim K\bibinitperiod},
+         given={Rebecca},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OME}{%
+         family={O’Rourke},
+         familyi={O\bibinitperiod},
+         given={Megan\bibnamedelima E},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BEJ}{%
+         family={Blitzer},
+         familyi={B\bibinitperiod},
+         given={Eleanor\bibnamedelima J},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kremen},
+         familyi={K\bibinitperiod},
+         given={Claire},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{CKR+1}
+    \strng{fullhash}{CKROMEBEJKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{9}
+    \field{pages}{922\bibrangedash 932}
+    \field{title}{A meta-analysis of crop pest and natural enemy response to
+  landscape complexity}
+    \field{volume}{14}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2011}
+  \endentry
+
   \entry{chapman2007modelling}{article}{}
     \name{author}{3}{}{%
       {{hash=CDS}{%
@@ -1331,6 +1378,28 @@
     \field{year}{2006}
   \endentry
 
+  \entry{biodiversite2011}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={Hoarau},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Le charançon noir du bananier}
+    \verb{url}
+    \verb http://www.agriculture-biodiversite-oi.org/Nature-agriculture
+    \endverb
+    \field{year}{2011}
+  \endentry
+
   \entry{holt1977predation}{article}{}
     \name{author}{1}{}{%
       {{hash=HRD}{%
@@ -1722,6 +1791,47 @@
     \field{year}{1980}
   \endentry
 
+  \entry{ostman2001landscape}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OO}{%
+         family={{\"O}stman},
+         familyi={{\"O}\bibinitperiod},
+         given={{\"O}rjan},
+         giveni={{\"O}\bibinitperiod},
+      }}%
+      {{hash=EB}{%
+         family={Ekbom},
+         familyi={E\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bengtsson},
+         familyi={B\bibinitperiod},
+         given={Janne},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{OOEBBJ1}
+    \strng{fullhash}{OOEBBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{year}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{4}
+    \field{pages}{365\bibrangedash 371}
+    \field{title}{Landscape heterogeneity and farming practice influence
+  biological control}
+    \field{volume}{2}
+    \field{journaltitle}{Basic and Applied Ecology}
+    \field{year}{2001}
+  \endentry
+
   \entry{perfecto1998deployment}{incollection}{}
     \name{author}{2}{}{%
       {{hash=PI}{%
@@ -1800,6 +1910,57 @@
     \field{volume}{172}
     \field{journaltitle}{the american naturalist}
     \field{year}{2008}
+  \endentry
+
+  \entry{poeydebat2016balancing}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PC}{%
+         family={Poeydebat},
+         familyi={P\bibinitperiod},
+         given={Charlotte},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Carval},
+         familyi={C\bibinitperiod},
+         given={Dominique},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DLdBL}{%
+         prefix={De\bibnamedelima Lapeyre\bibnamedelima de},
+         prefixi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  d\bibinitperiod},
+         family={Bellaire},
+         familyi={B\bibinitperiod},
+         given={Luc},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tixier},
+         familyi={T\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{PC+1}
+    \strng{fullhash}{PCCDBLDLdTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{23}
+    \field{pages}{8607\bibrangedash 8616}
+    \field{title}{Balancing competition for resources with multiple pest
+  regulation in diversified agroecosystems: a process-based approach to
+  reconcile diversification and productivity}
+    \field{volume}{6}
+    \field{journaltitle}{Ecology and evolution}
+    \field{year}{2016}
   \endentry
 
   \entry{pynoo2011predicting}{article}{}
@@ -2398,30 +2559,34 @@
   \endentry
 
   \entry{tixier2004simba}{article}{}
-    \name{author}{3}{}{%
+    \name{author}{5}{}{%
       {{hash=TP}{%
          family={Tixier},
          familyi={T\bibinitperiod},
          given={Philippe},
          giveni={P\bibinitperiod},
       }}%
-      {{hash=ME}{%
+      {{hash=M}{%
          family={Mal{\'e}zieux},
          familyi={M\bibinitperiod},
-         given={Eric},
-         giveni={E\bibinitperiod},
       }}%
-      {{hash=DM}{%
+      {{hash=E}{%
+         family={Eric},
+         familyi={E\bibinitperiod},
+      }}%
+      {{hash=D}{%
          family={Dorel},
          familyi={D\bibinitperiod},
-         given={Marc},
-         giveni={M\bibinitperiod},
+      }}%
+      {{hash=M}{%
+         family={Marc},
+         familyi={M\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
       {Elsevier}%
     }
-    \strng{namehash}{TPMEDM1}
+    \strng{namehash}{TP+1}
     \strng{fullhash}{TPMEDM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}

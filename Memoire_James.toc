@@ -17,19 +17,19 @@
 \contentsline {section}{\numberline {2.1}Le bananier}{5}{section.26}% 
 \contentsline {subsection}{\numberline {2.1.1}Origine}{5}{subsection.27}% 
 \contentsline {subsection}{\numberline {2.1.2}Culture}{5}{subsection.28}% 
-\contentsline {subsubsection}{\numberline {2.1.2.1}Le piquetage de la parcelle :}{6}{subsubsection.29}% 
-\contentsline {subsubsection}{\numberline {2.1.2.2}La trouaison :}{6}{subsubsection.30}% 
+\contentsline {subsubsection}{\numberline {2.1.2.1}Le piquetage de la parcelle }{6}{subsubsection.29}% 
+\contentsline {subsubsection}{\numberline {2.1.2.2}La trouaison }{6}{subsubsection.30}% 
 \contentsline {section}{\numberline {2.2}Ravageurs}{7}{section.32}% 
-\contentsline {subsection}{\numberline {2.2.1}Lutte contre les charan\IeC {\c c}ons}{8}{subsection.33}% 
+\contentsline {subsection}{\numberline {2.2.1}Lutte contre le charan\IeC {\c c}on du bananier}{8}{subsection.33}% 
 \contentsline {subsubsection}{\numberline {2.2.1.1}Lutte chimique}{8}{subsubsection.34}% 
 \contentsline {subsubsection}{\numberline {2.2.1.2}Pi\IeC {\'e}geage de masse}{8}{subsubsection.35}% 
-\contentsline {subsubsection}{\numberline {2.2.1.3}Syst\IeC {\`e}me de lutte par un pr\IeC {\'e}dateur}{8}{subsubsection.36}% 
+\contentsline {subsubsection}{\numberline {2.2.1.3}R\IeC {\'e}gulation naturelle des populations du charan\IeC {\c c}on du bananier}{8}{subsubsection.36}% 
 \contentsline {section}{\numberline {2.3}Mod\IeC {\'e}lisation et agro\IeC {\'e}cologie}{10}{section.37}% 
 \contentsline {section}{\numberline {2.4}Mod\IeC {\`e}le spatialement explicit COSMOS}{11}{section.39}% 
 \contentsline {chapter}{\numberline {3}Mat\IeC {\'e}riels et m\IeC {\'e}thode}{13}{chapter.40}% 
 \contentsline {section}{\numberline {3.1}Zone d\IeC {\textquoteright }\IeC {\'e}tude}{13}{section.41}% 
 \contentsline {section}{\numberline {3.2}Collecte des donn\IeC {\'e}es}{14}{section.43}% 
-\contentsline {subsection}{\numberline {3.2.1}Protocole de \IeC {\guillemotleft } proie sentinelle \IeC {\guillemotright } : }{14}{subsection.44}% 
+\contentsline {subsection}{\numberline {3.2.1}Protocole de \IeC {\guillemotleft } proie sentinelle \IeC {\guillemotright } }{14}{subsection.44}% 
 \contentsline {subsubsection}{\numberline {3.2.1.1}M\IeC {\'e}thodologie}{15}{subsubsection.46}% 
 \contentsline {section}{\numberline {3.3}Analyse statistique des taux de pr\IeC {\'e}dation de charan\IeC {\c c}ons dans un champ de bananier-ma\IeC {\"\i }s}{17}{section.49}% 
 \contentsline {subsection}{\numberline {3.3.1}R\IeC {\'e}sultats et discussion}{19}{subsection.50}% 
@@ -38,17 +38,17 @@
 \contentsline {subsection}{\numberline {3.4.1}Description et param\IeC {\'e}trage du mod\IeC {\`e}le}{23}{subsection.56}% 
 \contentsline {subsection}{\numberline {3.4.2}Caract\IeC {\'e}ristiques g\IeC {\'e}n\IeC {\'e}rales du mod\IeC {\`e}le COSMOSPARK}{23}{subsection.58}% 
 \contentsline {subsection}{\numberline {3.4.3}Protocole ODD}{25}{subsection.60}% 
-\contentsline {subsubsection}{\numberline {3.4.3.1}Overview}{25}{subsubsection.61}% 
-\contentsline {subsubsection}{\numberline {3.4.3.2}Purpose}{25}{subsubsection.62}% 
-\contentsline {subsubsection}{\numberline {3.4.3.3}Entities, state variables and scales}{26}{subsubsection.63}% 
-\contentsline {subsubsection}{\numberline {3.4.3.4}Process overview and scheduling}{28}{subsubsection.65}% 
-\contentsline {subsubsection}{\numberline {3.4.3.5}Design concepts}{28}{subsubsection.67}% 
-\contentsline {subsubsection}{\numberline {3.4.3.6}Details}{29}{subsubsection.68}% 
-\contentsline {subsubsection}{\numberline {3.4.3.7}Submodels}{30}{subsubsection.69}% 
+\contentsline {subsubsection}{\numberline {3.4.3.1}Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}rale}{25}{subsubsection.61}% 
+\contentsline {paragraph}{\numberline {3.4.3.1.1}Objectif}{25}{paragraph.62}% 
+\contentsline {paragraph}{\numberline {3.4.3.1.2}Entit\IeC {\'e}s, variables d'\IeC {\'e}tat et \IeC {\'e}chelles}{26}{paragraph.63}% 
+\contentsline {paragraph}{\numberline {3.4.3.1.3}Vue d'ensemble du processus et ordonnancement}{27}{paragraph.65}% 
+\contentsline {subsubsection}{\numberline {3.4.3.2}Concepts de conception}{28}{subsubsection.67}% 
+\contentsline {subsubsection}{\numberline {3.4.3.3}D\IeC {\'e}tails}{29}{subsubsection.68}% 
+\contentsline {paragraph}{\numberline {3.4.3.3.1}Sous-mod\IeC {\`e}les}{30}{paragraph.69}% 
 \contentsline {subsection}{\numberline {3.4.4}Proc\IeC {\'e}dure de simulation}{31}{subsection.70}% 
 \contentsline {subsubsection}{\numberline {3.4.4.1}Validation du mod\IeC {\`e}le}{31}{subsubsection.71}% 
 \contentsline {subsubsection}{\numberline {3.4.4.2}R\IeC {\'e}sultat}{34}{subsubsection.74}% 
 \contentsline {subsubsection}{\numberline {3.4.4.3}Discussion}{35}{subsubsection.76}% 
-\contentsline {subsubsection}{\numberline {3.4.4.4}Conclusion}{36}{subsubsection.77}% 
+\contentsline {subsubsection}{\numberline {3.4.4.4}Conclusion}{37}{subsubsection.77}% 
 \contentsline {subsection}{\numberline {3.4.5}Conclusion g\IeC {\'e}n\IeC {\'e}rale}{37}{subsection.78}% 
 \contentsfinish 

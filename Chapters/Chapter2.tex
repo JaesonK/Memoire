@@ -4,7 +4,7 @@
 \label{Chapter3} % For referencing the chapter elsewhere, use \ref{Chapter1}
 %\minitoclt
 \section{Zone d’étude}
-\noindent{Pour mener notre étude, nous avons choisi la zone de production bananeraie de Toffo. Cette zone a été choisie, surtout, à cause de la diversité champs de bananier. On y retrouve d'autres cultures associées telles que le maïs, la canne à sucre, le niébé, le papayé, l'oranger... }
+\noindent{Pour mener notre étude, nous avons choisi la zone de production bananière de Toffo. Cette zone a été choisie, surtout, à cause de la diversité des champs de bananier. On y retrouve d'autres cultures associées telles que le maïs, la canne à sucre, le niébé, le papayer, l'oranger... }
 
 \noindent{La commune de Toffo concernée par notre étude est située dans la zone septentrionale du département  de l’atlantique avec une superficie de 492 $km^2$ environ $15\%$ de la superficie du département, et $0,42\%$ de la superficie totale du Bénin. Elle est limitée au Nord par la commune de Zogbodomey dans le département du Zou, au Sud par la commune d’Allada, à l’Est par la commune de Zè (au Sud-Est) et à l’Ouest par le fleuve Couffo servant de frontière naturelle avec la commune de Lalo dans le département du Couffo. La commune de Toffo est subdivisée en 10 arrondissements, décomposés en 54 villages. Le chef-lieu de la commune est  l’arrondissement de Toffo-centre situé à environ  81km de Cotonou (\cite{adjovi2006localisation}).}
 \begin{figure}
@@ -13,8 +13,8 @@
 	\captionof{figure}{Carte de la commune de Toffo}
 \end{figure}
 \section{Collecte des données}
-\noindent{Nous utilisons dans ce travail comme données, les mesures de prédations journalières dans les champs de bananeraie de Toffo allant de 15 août au 5 septembre 2021. Ces données sont obtenues par protocole de proie sentinelle (\cite{ricci2017cartes}) }
-\subsection{Protocole de « proie sentinelle » : }
+\noindent{Nous utilisons dans ce travail comme données, les mesures de prédations journalières dans les champs de bananiers de Toffo allant de 15 août au 5 septembre 2021. Ces données sont obtenues par protocole de proie sentinelle (\cite{ricci2017cartes}). }
+\subsection{Protocole de « proie sentinelle » }
 \noindent{Le principe d’une proie sentinelle est d’exposer aux prédateurs des proies et de mesurer la proportion de proies consommées après un temps donné. Ici, nous utiliserions des charançons vivants que l’on entrave avec un petit fil de pêche, lui-même fixé au sol. La mesure consiste à noter la présence ou l’absence du charançon après 24h d’exposition. On dispose des petits morceaux de feuille de bananier pour offrir un abri au charançon, mais pas trop grand pour qu’ils restent exposés à certains moments (par exemple 4 morceaux de 4cm de côté).}
 \begin{figure}
 	\centering
@@ -43,7 +43,7 @@ Vingt parcelles diversifiées (on observe la présence du maïs avec d'autres cu
 
 \noindent{L’hypothèse d’indépendance des données n’étant pas vérifiée , le modèle choisit est donc le modèle linéaire mixte généralisé (GLMM ) (\cite{zuur2009mixed}). Ce modèle est une extension du modèle linéaire généralisé permettant la corrélation entre les observations et des données imbriquées.}
 
-\noindent{Le seul effet aléatoire considéré est le champ. Nous ne cherchons pas à comprendre la prédation des charançons à l’échelle du paysage mais leur prédation dans de champ à petite échelle. Pour ce faire, nous utiliserons les groupes déterminés dans les champs, ce qui nous permettra de regrouper des états initiaux similaires. Le jeu de données tiré du protocole présente des données sur la régulation agro-écologie de 20 parcelles de culture de bananiers et maïs à Toffo. La prédation (Pred) a été mesurée pour cinq (5) couples de charançons sur chacune des 20 parcelles (champ) pour un total de 200 observations. La variable density mesure la densité de chaque parcelle en bananiers par rapport à la densité moyenne, tandis que la complexité de l'agro-écosystème est mesurée à l’échelle de la parcelle.
+\noindent{Le seul effet aléatoire considéré est le champ. Nous ne cherchons pas à comprendre la prédation des charançons à l’échelle du paysage mais leur prédation dans de champ à petite échelle. Pour ce faire, nous utiliserons les groupes déterminés dans les champs, ce qui nous permettra de regrouper des états initiaux similaires. Le jeu de données tiré du protocole présente des données sur la régulation naturelle du charançon du bananier dans 20 parcelles de bananiers et maïs à Toffo. La prédation (Pred) a été mesurée pour cinq (5) couples de charançons sur chacune des 20 parcelles (champ) pour un total de 200 observations. La variable density mesure la densité de chaque parcelle en bananiers par rapport à la densité moyenne, tandis que la complexité de l'agro-écosystème est mesurée à l’échelle de la parcelle.
 	
 Les autres cultures souvent rencontrées sur les parcelles étant des tecks, papayés, orangers et palmeraies. La complexité agro-écologie a été calculée comme une variable de niveau qui exprime le nombre de cultures retrouvées dans la parcelle. La complexité est initialisée à 1 pour toutes les parcelles à cause de la présence du maïs. La complexité est donc la somme des variables binaires (absence ou présence des autres cultures sur une parcelle donnée)
 	
@@ -87,7 +87,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 	\captionof{figure}{\label{complec}Taux de prédation prédit par GLMM en fonction de la complexité  des champs.}
 \end{figure}
 
-\noindent{De ce graphique, on retient que dans les champs de bananiers et maïs uniquement (complexité = 1), il y a un taux moyen d’environ 0.45 de prédation pour un charançon donné (ce taux peut varier entre 0.3 et 0.6). Le taux moyen augmente au fur et à mesure que la diversité des parcelles devienne plus complexe. Tout ceci conforte l’hypothèse d’une régulation de charançons importante dans les champs avec les cultures associées (diversité agro-écologique complexe). Östman et al., (2001) et de Chaplin-Kramer et al., (2011) font ressortir que dans la plupart des situations, les paysages plus complexes, comportant davantage d’habitats semi-naturels, sont associés à une plus grande abondance et à une plus grande diversité d’ennemis naturels, ce qui augmente donc la probabilité de prédation des ravageurs.
+\noindent{De ce graphique, on retient que dans les champs de bananiers et maïs uniquement (complexité = 1), il y a un taux moyen d’environ 0.45 de prédation pour un charançon donné (ce taux peut varier entre 0.3 et 0.6). Le taux moyen augmente au fur et à mesure que la diversité des parcelles devienne plus complexe. Tout ceci conforte l’hypothèse d’une régulation de charançons importante dans les champs avec les cultures associées (diversité agro-écologique complexe). \cite{ostman2001landscape} et de \cite{chaplin2011meta} font ressortir que dans la plupart des situations, les paysages plus complexes, comportant davantage d’habitats semi-naturels, sont associés à une plus grande abondance et à une plus grande diversité d’ennemis naturels, ce qui augmente donc la probabilité de prédation des ravageurs.
 }
 \begin{figure}
 	\centering
@@ -154,10 +154,12 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 \end{figure}
 
 \subsection{Protocole ODD}
-\subsubsection{Overview}
-\subsubsection{Purpose}
+\subsubsection{Présentation générale}
+\paragraph{Objectif}$ $ \\
+
 \noindent{Le but de notre modèle est de simuler la prédation de \textit{C. sordidus} par les arthropodes prédateurs en décrivant comment des patterns d’organisation spatiale (bananiers \& culture associées) modifient la dynamique des populations de charançon sur une parcelle donnée.}
-\subsubsection{Entities, state variables and scales}
+\paragraph{Entités, variables d'état et échelles}$ $ \\
+
 \noindent{Le modèle COSMOSPARK comporte 3 entités, les charançons, les bananiers, les maïs. Les charançons sont décrits par 3 variables d’état : l’emplacement –x, y – leur stade de vie et leur sexe. Les bananiers sont décrits par leur emplacement (cellule de grille) et une liste numérique contenant le taux de mortalité journalier sur chaque bananier en fonction de sa configuration. Les maïs aussi sont décrits par leur emplacement (cellule de grille) et une liste numérique contenant le taux de mortalité journalier fixe sur chaque maïs. Les unités spatiales sont caractérisées par leur emplacement (cellule de grille) et leur type d'habitat. Les deux types d’habitats sont les habitats de culture contenant bananiers et maïs (habitat favorable aux prédateurs).  L’habitat proche de culture de maïs est considéré comme favorable à la régulation des charançons et donc a d’effet sur les charançons.Les parcelles de champ de bananiers- maïs dans le modèle sont de 25 m x 25 m et ont un grain de 2 x 2 m. La superficie de la parcelle a été choisie pour faciliter la prise en compte de divers modèles spatiaux de cultures et d'un nombre et d'une densité raisonnables de plants de bananes (1736 plants de bananes /ha ; Vinatier et al, 2009). Une parcelle est alors une grille carrée de 50 x 48 cellules traitée comme un tore. Tous les bananiers et les mais sont placés sur des cellules côte-à-côte les uns des autres pour limiter l’effet du sol nu.
 Les charançons ont une durée de vie en moyenne de deux ans. Le modèle fonctionne sur un pas de temps journalier pendant deux ans donc, 748 jours.}
 \begin{figure}
@@ -166,14 +168,15 @@ Les charançons ont une durée de vie en moyenne de deux ans. Le modèle fonctio
 	\captionof{figure}{\label{patterns} Les patterns du modèle. Les bananiers sont en blanc et les maïs en vert. Les charançons ont été disposés aux pieds de bananiers.}
 \end{figure}
 
-\subsubsection{Process overview and scheduling}
+\paragraph{Vue d'ensemble du processus et ordonnancement}$ $ \\
+
 \noindent{Les processus de simulation du modèle sont décrits dans l'organigramme (Fig. \ref{flowchaart}). A chaque pas de temps, deux sous-modèles sont exécutés dans l'ordre suivant : La prédation et l'observation des bananiers. La prédation est exécutée pour tous les ravageurs dans un ordre aléatoire et défini le fait qu'ils soient tués ou pas en fonction de la configuration du champ. Le sous-modèle Observation des bananiers est ensuite exécuté pour tous les bananiers dans un ordre aléatoire et enregistre le nombre de ravageurs présents dans la parcelle.}
 \begin{figure}
 	\centering
 	\includegraphics[width=12cm]{flowchart}
 	\captionof{figure}{\label{flowchaart} Organigramme du modèle de simulation examinant la relation entre l’organisation des parcelles et le taux de prédation.}
 \end{figure}
-\subsubsection{Design concepts}
+\subsubsection{Concepts de conception}
 \noindent{\textit{Basic principles :} Le modèle est une extension du modèle COSMOS qui simule l'épidémiologie spatiale de \textit{C. sordidus} à long terme en décrivant la dynamique de sa population et l'infestation des plantes hôtes qui en résulte. L’ajout des maïs au modèle constitue un habitat favorable aux prédateurs généralistes dont l’effet a été modélisé par la fixation des taux, sur des patches, qui varient en fonction du type d’habitat.
 
 \textit{Emergence :} La dynamique des mouvements des charançons et la pression de prédation qui en résulte sur l'ensemble des bananiers émergent du comportement de recherche de nourriture des individus. L'interaction entre les mouvements, l'effet dilution et l'organisation spatiale n'est pas simple.
@@ -194,13 +197,14 @@ Les charançons ont une durée de vie en moyenne de deux ans. Le modèle fonctio
 
 \textit{Collectives :} Il n’y a pas de collectif mais, il y a une densité des charançons qui influe sur leur capacité à se reproduire.
 }
-\subsubsection{Details}
+\subsubsection{Détails}
 \noindent{\textit{Initialisation :} Le modèle est initialisé en assignant des types d'habitats aux cellules (c'est-à-dire des simulations de parcelles), en spécifiant les paramètres prédation et en distribuant les ravageurs aux pieds des bananiers dans une parcelle.
 	
 \textit{Input data :} Il n’y a pas de données externes dans notre modèle mis à part les paramètres du modèle.
 }
 
-\subsubsection{Submodels}
+\paragraph{Sous-modèles} $ $ \\
+
  \noindent{ \textit{Move :} Le déplacement des  charançons est influencé par l’habitat dans lequel il se trouve. Les animaux utilisent une grande variété d'indices chimiques, visuels et acoustiques pour évaluer l'aptitude de l'habitat à fournir de la nourriture (\cite{searle2005should}), la ponte (\cite{rabasa2005egg}) ou la protection contre les prédateurs (\cite{hufker1999az}). La perception d’habitat par un individu est définie par le noyau de dispersion qui prend compte des contraintes de déplacement d’un habitat à un autre en fonction de la distance par rapport à l’emplacement actuel. Bien qu’ils soient considérés comme statique dans le temps et dans l’espace (\cite{chapman2007modelling} ; \cite{coombs2007field}), les noyaux de dispersion peuvent différer en fonction du temps (\cite{phillips2008reid}), de facteurs intrinsèques tels que le sexe, l'âge, le statut social ou les réserves énergétiques, et des conditions environnementales telles que le climat, la saison, la qualité de l'habitat, la compétition, la prédation et le parasitisme (\cite{bianchi2009foraging}; \cite{walters2006modelling}). En se servant des récentes avancées en matière de radiopistage des individus (\cite{schick2008understanding}), et en considérant le mouvement individuel des charançons comme une marche aléatoire dans laquelle les lieux d'arrivée et de départ des individus dépendent des caractéristiques de l'habitat et de leur distance par rapport à l'emplacement actuel de l'individu, (\cite{vinatier2010radiotelemetry}) ont défini la probabilité de déplacement d'une cellule a à une cellule b de la grille dans une unité temporelle par une chaîne de Markov de premier ordre définie par :
  $$Pr(a \rightarrow b)=\frac{\alpha_{h(b)}f_{\beta h}(d_{ab})}{\sum_{k=1}^{m}\alpha_h(k)f_{\beta h}()d_{ak}}$$
 
@@ -238,10 +242,16 @@ Avec $MQ$ : la mortalité quotidienne et $ML$ : la durée de vie d’un charanç
 
 Le modèle omet certains comportements ou interactions complexes, tels que le mouvement du prédateur dépendant de la densité ou la capacité du prédateur à évaluer la qualité de l'habitat à distance, qui pourraient influencer la recherche de nourriture, le cycle de maïs qui varie selon le temps et qui pourrait ralenti la régulation pendant la récolte,  Ces omissions peuvent donc réduire le pouvoir prédictif du modèle. Néanmoins, le modèle est une première étape et peut être modifié à l'avenir par l'ajout de complexité en fonction de l'espèce et du système considérés.
 
-Notre modèle ne représente pas les prédateurs ou le cycle des maïs. Cependant, l'inclusion des prédateurs généralistes nécessite généralement des hypothèses concernant la dynamique des prédateurs et les interactions avec les ravageurs, ce qui peut rendre les résultats moins généralisables ou conduire à une propagation des erreurs si les hypothèses sont inexactes. Ceci suggère donc une question qui est de savoir s'il est toujours pertinent d'utiliser la modélisation multi-agent à des questions agroécologiques, à cause de la complexité des systèmes de cultures. Dans l'étude actuelle, l'effet potentiel des prédateurs sur les ravageurs a été évalué par l’hypothèse de distribution des taux de prédation aux pieds des plantes en fonction du voisinage d’habitat favorable. Ces mesures pourraient être plus améliorées en réalisant des mesures journalières sur une durée de 3 mois minimum avec des méthodes de technologie avancée (observation avec caméra ou par image) et intégrant le cycle de maïs  selon la température. }
+Notre modèle ne représente pas les prédateurs ou le cycle des maïs. Notre approche diffère de celle de \cite{collard2018spatial} qui représente la dynamique des \textit{E. caraibea} en omettant les charançons. Cependant, l'inclusion des prédateurs généralistes nécessite généralement des hypothèses concernant la dynamique des prédateurs et les interactions avec les ravageurs, ce qui peut rendre les résultats moins généralisables ou conduire à une propagation des erreurs si les hypothèses sont inexactes. Ceci suggère donc une question qui est de savoir s'il est toujours pertinent d'utiliser la modélisation multi-agent à des questions agroécologiques, à cause de la complexité des systèmes de cultures. Dans l'étude actuelle, l'effet potentiel des prédateurs sur les ravageurs a été évalué par l’hypothèse de distribution des taux de prédation aux pieds des plantes en fonction du voisinage d’habitat favorable. Ces mesures représentent bien l'effet de l'association de maïs sur la régulation du \textit{C. sordidus} si la présence d'un plant de maïs est suffisant pour fixer un taux de prédation journalier au charançons se trouvant aux alentours. Cette hypothèse pourraient être plus améliorées en réalisant des mesures journalières sur une durée de 3 mois minimum avec des méthodes de technologie avancée (observation avec caméra ou par image) et intégrant le cycle de maïs  selon la température. 
+
+En paramétrant le modèle sur des configurations des champs de bananiers et maïs, nous avons constaté que le taux de prédation allait de 0,4 à 0,6 durant la période de simulation pour des configurations bien hétérogènes. Ce taux est, par contre, au dessus de 1 pour des associations regroupées (faible hétérogénéité). Cependant, notre modèle nécessite une validation avant que les résultats puissent être reliés quantitativement aux caractéristiques de l'effet de la configuration spatiale sur le taux de prédation dans les cultures de bananier associées au maïs. Nous interprétons donc nos résultats de manière qualitative. Aussi, les effets secondaires doivent être pris en compte avant que les agriculteurs ne soient invités à mettre en œuvre une organisation spatiale donnée, comme la capacité d’une culture associée à habiter les prédateurs spécifiques pouvant éliminer les parasites ou le potentiel de concurrence entre les plantes cultivées et non cultivées, comme déjà étudié dans les bananeraies (\cite{poeydebat2016balancing},
+\cite{collard2018spatial}). 
+}
+
+\noindent{}
 
 \subsubsection{Conclusion}
-\noindent{Les résultats de la présente étude démontrent que la diversité des cultures affecte fortement le contrôle biologique des ravageurs. Nous avons constaté que l’effet des prédateurs par parcelle est fortement affecté par la configuration spatiale. Dans l'ensemble, nos résultats suggèrent que l'organisation spatiale des cultures associées est un outil qui peut être utilisé par les agriculteurs pour améliorer la lutte biologique des ravageurs. Cependant, les effets secondaires doivent être pris en compte avant que les agriculteurs ne soient invités à mettre en œuvre une organisation spatiale donnée, comme la capacité d'un prédateur spécifique à éliminer les parasites en une seule visite ou le potentiel de concurrence entre les plantes cultivées et non cultivées, comme déjà étudié dans les bananeraies (Poeydebat et al., 2016, Collard et al,. 2018).\\
+\noindent{Les résultats de la présente étude démontrent que la diversité des cultures affecte fortement le contrôle biologique des ravageurs. Nous avons constaté que l’effet des prédateurs par parcelle est fortement affecté par la configuration spatiale. Nous remarquons également que, plus le champ est bien hétérogène en bananiers et maïs, plus la prédation est efficace. Par contre, une association bananiers et maïs par groupe (bananiers à part et maïs) n'influence pas sur la population du charançon à long terme.  Dans l'ensemble, nos résultats suggèrent que l'organisation spatiale des cultures associées est un outil qui peut être utilisé par les agriculteurs pour améliorer la lutte biologique des ravageurs\\
 Compte tenu des processus, des échelles et des périodes pris en compte dans le modèle, et de l'utilisation d'hypothèses communément acceptées sur le taux de prédation, nous pensons que les résultats de l'étude peuvent être considérés comme assez robustes pour une diversité de cultures associées à moins que ces cultures se comportent très différemment dans leur réponse à l’ennemi naturel qu’elles fournissent
 }
 \subsection{Conclusion générale}
